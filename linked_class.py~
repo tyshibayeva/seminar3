@@ -1,0 +1,10 @@
+class MyQueue:
+
+
+
+
+
+Class QueueNode:
+def _init_(self, data=None):
+	self.data = data
+	self.next = None 
